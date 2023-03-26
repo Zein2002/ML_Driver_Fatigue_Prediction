@@ -1,2 +1,4 @@
-# ML_Driver_Fatigue_Prediction
-4th Year Dissertation Project
+# **Using Machine Learning to Predict Fatigue in Drivers from EEG/Facial Scans** <br> 4th Year Dissertation Project
+
+### *Abstract*
+Worldwide, cars kill hundreds of people daily, more than a million yearly. A majority of these incidents occur because of human error, especially when the drivers’ abilities are impaired. The aim of this project is to develop and train a machine learning algorithm to use scans from an EEG to both detect if a driver is too fatigued to drive and, if the driver isn’t currently fatigued, when they will eventually become fatigued. Some car manufacturers have started testing headrests with an incorporated EEG, and other similar EEG based devices are coming to fruition too. The algorithm produced by this project will hopefully be able to use the data gathered by this technology to improve safety immensely.
